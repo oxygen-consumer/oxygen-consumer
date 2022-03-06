@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **undergraduate maths and anything computer-related**
 
-- 📫 How to reach me **stefan.florin.zaharie@stud.ubbcluj.ro**
+- 📫 You can reach me at **stefan.florin.zaharie@stud.ubbcluj.ro**
 
 - ⚡ Fun fact **I use Gentoo linux**
 
