@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **stefan@zaha.tech**
 
-- ⚡ Fun fact **I love coffe and donuts**
+- ⚡ Fun fact **I love coffee and donuts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
