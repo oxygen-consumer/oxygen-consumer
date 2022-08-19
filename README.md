@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaha</h1>
 <h3 align="center">Another average nerd</h3>
 
-- 🌱 I’m currently learning **computer science at Babes-Bolyai University**
+- 🌱 I’m currently learning **computer science at University of Bucharest**
 
 - 📫 You can reach me at **stefan@zaha.tech**
 
